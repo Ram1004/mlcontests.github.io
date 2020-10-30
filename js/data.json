@@ -1,5 +1,13 @@
  {
      "data": [{
+         "name": "HackLive 4: Guided Community Hackathon - Stock Price Prediction",
+         "url": "https://datahack.analyticsvidhya.com/contest/hacklive-4-guided-community-hackathon/?utm_source=ml-contest&utm_medium=newsletter&utm_campaign=hacklive-4",
+         "type": "✅ Supervised Learning",
+         "deadline": "21 Nov 2020",
+         "prize": "$0",
+         "platform": "Analytics Vidhya",
+         "sponsor": "Analytics Vidhya"
+     }, {
          "name": "Learning to Smell Challenge",
          "url": "https://www.aicrowd.com/challenges/learning-to-smell?utm_source=mlcontests&utm_medium=click&utm_campaign=lts",
          "type": "✅ Supervised Learning",
